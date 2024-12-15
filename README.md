@@ -1,8 +1,11 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<div id=header align=center>
+  <h1>Hi there, I`m Nikita</h1>
+  <h3>Python/ML developer from Saratov</h3>
+</div>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<a href=https://t.me/nikkosVerraty>
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt=Telegram>
+</a>
 
 ###
 
