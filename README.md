@@ -17,6 +17,8 @@
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+![codewars](https://www.codewars.com/users/NikkosVeraaty/badges/small)
+
 ###
 
 <h2 align="left">Languages and tools</h2>
