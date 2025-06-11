@@ -1,6 +1,6 @@
 <div id=header align=center>
   <h1>Hi there, I`m Nikita</h1>
-  <h3>Python/ML developer from Saratov</h3>
+  <h3>Backend/ML developer</h3>
 </div>
 
 <div id=socials align=center>
@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">💻 I am a Python backend developer. I have experience in commercial development.<br>📚 At the moment, I am exploring the direction of DevOps and various new tools for myself.</p>
 
 ![codewars](https://www.codewars.com/users/NikkosVeraaty/badges/small)
 
